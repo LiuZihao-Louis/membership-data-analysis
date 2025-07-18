@@ -46,3 +46,10 @@ project/
 - `注册时间`：用于时间趋势分析
 - `会员等级`：例如白银、黄金、铂金、钻石
 - `会员来源`：例如线上、线下等
+
+## 联系方式
+
+欢迎交流反馈：
+
+- Email: liuzihao2221@gmail.com
+- GitHub: [LiuZihao-Louis](
